@@ -1,6 +1,7 @@
 # NeurIPS-ICLR-repro
 
-一个幻想做算法的赶路人
-复现论文过程记录的Wiki,包含复现的具体细节
-[进入复现笔记 Wiki](https://github.com/Drton1/NeurIPS-ICLR-repro/wiki)
+
+复现 ICLR/NeurIPS 论文的项目仓库  
+- 🚀 专注算法复现  
+- 📝 详细的笔记和公式推导请看 [Wiki](https://github.com/Drton1/NeurIPS-ICLR-repro/wiki)
 
